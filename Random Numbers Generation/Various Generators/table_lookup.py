@@ -6,7 +6,7 @@ print("Using Table-Lookup method to generate random variates")
 
 p = lambda t : exp(-t**2/2.0)/sqrt(2*pi);
 # CDF of normal distribution. 
-F = lambda x : (quad(p,-inf,x))[0];
+F = lambda x : (quad(p,-inf,x))[0]; 
 
 
 # Take discrete points (x,F(x))
