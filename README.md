@@ -35,6 +35,7 @@ From the scatter plot it is clear that the data has outliers. I have filtered th
 
 
 The residual plot graph that shows the residuals on the vertical axis and the independent variable on the horizontal axis. If the points in a residual plot are randomly dispersed around the horizontal axis, a linear regression model is appropriate for the data; otherwise, a nonlinear model is more appropriate. Since as seen in the Residual Plot the points are actually randomly disperesed, it confirms that the linear regression is appropriate and has a good fit.
+
 ![](https://github.com/Ojaswy/Simulation-and-Modelling/blob/main/Random%20Numbers%20Generation/Multivariate%20Normal%20Distribution/residual.png?raw=true)
 
 ## Simulating COVID-19 using SIR model
