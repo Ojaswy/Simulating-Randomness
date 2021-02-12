@@ -1,11 +1,13 @@
-```### Problem Statement```
+### ``` Problem Statement```
 
 Take a list containing all values between 1 and a positive integer ’N’. For all
 possible permutations of this list, compute the number of runs. Runs, here, are
 defined as the number of continuously increasing or decreasing sub lists in each
 and every permutation. Find the distribution based on the frequency of number
 of runs.
+
 For Example: If N = 3
+
 Possible Lists:[{1,2,3}, {1,3,2}, {2,1,3}, {2,3,1}, {3,1,2}, {3,2,1}]
 
 For (i): 1 - Only 1 sub-list and that is increasing
